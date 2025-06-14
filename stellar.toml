@@ -1,0 +1,15 @@
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+VERSION="2.0.0"
+
+[[CURRENCIES]]
+code="USDC"
+issuer="GA5ZSE4KNWYRM4M2ZNGKPVBWHGHF3WRKM5W3B7HZR4MZPUUSTWM2JBZB"
+status="live"
+is_asset_anchored=true
+desc="USD Coin on Stellar issued by Circle"
+
+[TRANSFER_SERVER_SEP0024]
+url="https://api.moneygram.com/sep24"
+
+[WEB_AUTH_ENDPOINT]
+url="https://api.moneygram.com/auth"
